@@ -1,6 +1,6 @@
 # [Dataquest](https://www.dataquest.io) Guided Projects
 
-### [Using Jupyter Notebook]()
+### [Using Jupyter Notebook](https://github.com/tsunghanwu/Dataquest/blob/master/Using%20Jupyter%20notebook/Jupyter.ipynb)
 *Python Course*  
 Files, Loops, conditional logic, List operations, Dictionaries, Introduction to functions, Debugging errors
 
@@ -32,15 +32,15 @@ Data Cleaning Walkthrough
 *Data Cleaning*  
 Data Cleaning Walkthrough
 
-### [Exploring Ebay Car Sales Data]()
+### [Exploring Ebay Car Sales Data](https://github.com/tsunghanwu/Dataquest/blob/master/Exploring%20Ebay%20Car%20Sales%20Data/Ebay_car_sales.ipynb)
 *Data Cleaning*  
 Exploratory data analysis, Data Cleaning
 
-### [Analyzing CIA Factbook Data using SQL]()
+### [Analyzing CIA Factbook Data using SQL](https://github.com/tsunghanwu/Dataquest/blob/master/Analyzing%20CIA%20Factbook%20Data%20using%20SQL/CIA.ipynb)
 *SQL Fundamentals*  
 SQL basics, Summary statistics, Group summary statistics, Subqueries, Querying SQLite from Python
 
-### [Answering Business Questions using SQL]()
+### [Answering Business Questions using SQL](https://github.com/tsunghanwu/Dataquest/blob/master/Answering%20Business%20Questions%20using%20SQL/businese.ipynb)
 *SQL Intermediate : Table relations and joins*  
 Joining Data, Building and Organizing complex queries, Table relations and Normalization
 
