@@ -1,4 +1,4 @@
-# [Dataquest](https://www.dataquest.io) Guided Projects
+# Dataquest Guided Projects
 
 ### [Using Jupyter Notebook](https://github.com/tsunghanwu/Dataquest/blob/master/Using%20Jupyter%20notebook/Jupyter.ipynb)
 *Python Course*  
